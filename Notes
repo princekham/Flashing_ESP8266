@@ -1,0 +1,11 @@
+Installing Pyflasher
+- pip install pyinstaller
+- pip install --upgrade pyinstaller
+- check by - 
+- pyinstaller --version
+from - https://pyinstaller.readthedocs.io/en/stable/installation.html
+
+change to exe file with pyinstaller
+
+from - https://datatofish.com/executable-pyinstaller/
+nodemcu flasher (exe) downloaded from: https://www.best-microcontroller-projects.com/nodemcu-firmware.html
